@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "arc-robotics",
-    "repositoryName": "arc-robotics.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"arc-robotics","repositoryName":"arc-robotics.github.io","branch":"master"},"site":{"title":"ARC Robotics","description":"Home of the Amateur Robotics Competition documentation and getting started. ","url":"https://arc-robotics.github.io"},"socialnetwork":{"github":"arc-robotics"},"theme":{"name":"Saga","url":"//arc-robotics.github.io/themes/Saga"}}
