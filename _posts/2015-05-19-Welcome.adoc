@@ -3,4 +3,4 @@
 ARC is a competition styled after FRC. As a general principle, we aim to follow relaxed ruleset as far as what is allowed, but to allow all competitors a roughly equal amount of power available by limiting the battery. The focus will be on letting competitors define strategy and from there build what they need to accomplish their strategy. We will, however, provide a list of suggested options for folks who have less experience with robotics. We've aimed to allow a driving robot, for $1000 requiring only minimal hand tools and experience.
 
 
-
+Over the next couple of days we'll be publishing the list of control system parts on our https://github.com/arc-robotics/arc-robotics.github.io/wiki[wiki] as well as game rules. We are still working out the logistics of the game and competition. 
